@@ -22,7 +22,7 @@ Running the `installDependencies.ipynb` file should cover all potential librarie
 Third Block in `798FeatureExtraction.ipynb` has a bool called `dataSet` that controls which set it generates
 
 ### Data Sets
-The data sets were too large to include in the .zip and github repo. Here are the links to where you can download them.
+The data sets were too large to include in the .zip and github repo. I'd recomend using the existing feature sets, but here are the links to where you can download the data sets.
 
 `RAVDESS` ----->
 `https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio`
